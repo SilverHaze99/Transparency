@@ -220,3 +220,27 @@
 * **Moral Licensing**: After doing a “good deed,” you feel freer to do something morally questionable.
 
 ---
+
+### 🧩 **Clustering Illusion (also: Clustering Bias)**
+
+> You recognize apparent patterns or clusters in random data—e.g., when rolling dice or in statistics—even though they are purely random.
+
+---
+
+### 🔗 **Conjunction Fallacy**
+
+> You consider a specific combination (e.g., “bank employee and feminist”) to be more likely than the more general option (“just a bank employee”) – even though this is mathematically impossible.
+
+---
+
+### 🎯 **Regression to the mean**
+
+> Extreme values (e.g., very poor or very good performance) tend to regress toward the mean statistically when repeated – but we often interpret this as a real trend or effect.
+
+---
+
+### ❤️‍🔥 **Affect Heuristic**
+
+> Your spontaneous feelings (sympathy, fear, disgust, etc.) influence decisions more than objective facts or probabilities.
+
+---
