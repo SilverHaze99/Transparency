@@ -117,7 +117,7 @@
 * **Cheerleader Effect**: People appear more attractive in groups than alone.
 * **Tyranny of Small Numbers**: You draw oversized conclusions from small, unrepresentative groups.
 * **Pseudocertainty Effect**: You prefer options that seem certain, even if the alternatives are rationally better.
-- **Ingroup/Outgroup Biases** You favor people from your group/You see members of other groups as “all the same.”
+* **Ingroup/Outgroup Biases** You favor people from your group/You see members of other groups as “all the same.”
 
 ### Economic & Consumer Biases
 * **IKEA effect**: You value things that you have (partly) built yourself more highly.
@@ -126,7 +126,7 @@
 * **Unit Bias**: You consider a portion to be “normal” simply because that is how it is served—regardless of calories, etc.
 * **Default bias**: You stick with default settings (e.g., data protection in apps) because it requires the least effort.
 * **Time-saving bias**: You overestimate how much time you save by increasing your speed (e.g., driving 30 km/h faster makes little difference over a short distance).
-- **Choice-Supportive Bias**: Remembering chosen options as better than they were.
+* **Choice-Supportive Bias**: Remembering chosen options as better than they were.
 
 ### Science & Statistics
 * **Publication Bias**: Studies with positive results are published more often than those with negative results.
@@ -134,7 +134,7 @@
 * **Sampling Bias**: The selection of your sample distorts the results (e.g., only surveying Twitter users).
 * **Observer Expectancy Effect**: Your expectations as a researcher unconsciously influence the results.
 * **Reactivity (Hawthorne Effect)**: People change their behavior when they know they are being observed.
-- **File Drawer Problem** *(related to publication bias)*: describes the bias in scientific literature, as studies with non-significant or negative results are published less frequently, thereby creating an exaggeratedly positive picture of an effect.
+* **File Drawer Problem** *(related to publication bias)*: describes the bias in scientific literature, as studies with non-significant or negative results are published less frequently, thereby creating an exaggeratedly positive picture of an effect.
 * **Reproducibility bias**: Studies that are difficult to replicate are often overlooked—even though they would be important.
 
 ### Attention & Perception
@@ -164,7 +164,7 @@
 * **Sunk Cost Fallacy**: You keep going because you have already invested a lot—even though it would be more rational to stop.
 * **Framing Effect**: How something is presented influences your decision (e.g., 90% chance of survival vs. 10% risk of death).
 * **Loss Aversion**: Losses weigh more heavily psychologically than gains of equal magnitude.
-- **Affect Heuristic**: Your spontaneous feelings (sympathy, fear, disgust, etc.) influence decisions more than objective facts or probabilities.
+* **Affect Heuristic**: Your spontaneous feelings (sympathy, fear, disgust, etc.) influence decisions more than objective facts or probabilities.
 
 ### Self & Identity
 * **Dunning-Kruger effect**: Incompetent people overestimate themselves, while competent people often underestimate themselves.
@@ -190,7 +190,7 @@
 * **Planning Fallacy**: You systematically underestimate how long tasks will take.
 * **Overconfidence Bias**: You are overly confident in your own judgments or abilities.
 * **Moral Licensing**: After doing a “good deed,” you feel freer to do something morally questionable.
-- **Present Bias**: Overvaluing immediate rewards over future benefits.
+* **Present Bias**: Overvaluing immediate rewards over future benefits.
 
 ### Standalone Important Biases
 * **Conjunction Fallacy**: You consider a specific combination (e.g., “bank employee and feminist”) to be more likely than the more general option (“just a bank employee”) – even though this is mathematically impossible.
