@@ -115,7 +115,7 @@
 * **Cheerleader-Effekt**: Menschen wirken in Gruppen attraktiver als alleine.
 * **Tyrannei der kleinen Zahlen**: Sie ziehen übertriebene Schlussfolgerungen aus kleinen, nicht repräsentativen Gruppen.
 * **Pseudowissenseffekt**: Sie bevorzugen Optionen, die sicher erscheinen, auch wenn die Alternativen rational besser sind.
-- **Voreingenommenheit gegenüber der eigenen Gruppe/anderen Gruppen** Sie bevorzugen Menschen aus Ihrer Gruppe/Sie sehen Mitglieder anderer Gruppen als „alle gleich“.
+* **Voreingenommenheit gegenüber der eigenen Gruppe/anderen Gruppen** Sie bevorzugen Menschen aus Ihrer Gruppe/Sie sehen Mitglieder anderer Gruppen als „alle gleich“.
 
 ### Wirtschaftliche und verbraucherbezogene Voreingenommenheit
 * **IKEA-Effekt**: Sie schätzen Dinge, die Sie (teilweise) selbst gebaut haben, mehr.
@@ -124,7 +124,7 @@
 * **Einheitsverzerrung**: Sie betrachten eine Portion als „normal“, einfach weil sie so serviert wird – unabhängig von Kalorien usw.
 * **Standardverzerrung**: Sie bleiben bei den Standardeinstellungen (z. B. Datenschutz in Apps), weil dies den geringsten Aufwand erfordert.
 * **Zeitsparende Verzerrung**: Sie überschätzen, wie viel Zeit Sie durch eine Erhöhung Ihrer Geschwindigkeit sparen (z. B. macht eine Geschwindigkeitssteigerung um 30 km/h auf einer kurzen Strecke kaum einen Unterschied).
-- **Auswahlverzerrung**: Sie erinnern sich an ausgewählte Optionen als besser, als sie waren.
+* **Auswahlverzerrung**: Sie erinnern sich an ausgewählte Optionen als besser, als sie waren.
 
 ### Wissenschaft und Statistik
 * **Publikationsverzerrung**: Studien mit positiven Ergebnissen werden häufiger veröffentlicht als solche mit negativen Ergebnissen.
@@ -132,7 +132,7 @@
 * **Sampling Bias**: Die Auswahl Ihrer Stichprobe verzerrt die Ergebnisse (z. B. wenn Sie nur Twitter-Nutzer befragen).
 * **Observer Expectancy Effect**: Ihre Erwartungen als Forscher beeinflussen unbewusst die Ergebnisse.
 * **Reactivity (Hawthorne-Effekt)**: Menschen ändern ihr Verhalten, wenn sie wissen, dass sie beobachtet werden.
-- **File-Drawer-Problem** *(im Zusammenhang mit der Veröffentlichungsverzerrung)*: beschreibt die Verzerrung in der wissenschaftlichen Literatur, da Studien mit nicht signifikanten oder negativen Ergebnissen seltener veröffentlicht werden, wodurch ein übertrieben positives Bild eines Effekts entsteht.
+* **File-Drawer-Problem** *(im Zusammenhang mit der Veröffentlichungsverzerrung)*: beschreibt die Verzerrung in der wissenschaftlichen Literatur, da Studien mit nicht signifikanten oder negativen Ergebnissen seltener veröffentlicht werden, wodurch ein übertrieben positives Bild eines Effekts entsteht.
 * **Reproduzierbarkeitsverzerrung**: Studien, die schwer zu replizieren sind, werden oft übersehen – obwohl sie wichtig wären.
 
 ### Aufmerksamkeit und Wahrnehmung
@@ -162,7 +162,7 @@
 * **Sunk Cost Fallacy**: Sie machen weiter, weil Sie bereits viel investiert haben – obwohl es rationaler wäre, aufzuhören.
 * **Framing-Effekt**: Die Art und Weise, wie etwas präsentiert wird, beeinflusst Ihre Entscheidung (z. B. 90 % Überlebenschance vs. 10 % Sterberisiko).
 * **Verlustaversion**: Verluste wiegen psychologisch schwerer als Gewinne gleicher Größe.
-- **Affekt-Heuristik**: Ihre spontanen Gefühle (Sympathie, Angst, Ekel usw.) beeinflussen Entscheidungen stärker als objektive Fakten oder Wahrscheinlichkeiten.
+* **Affekt-Heuristik**: Ihre spontanen Gefühle (Sympathie, Angst, Ekel usw.) beeinflussen Entscheidungen stärker als objektive Fakten oder Wahrscheinlichkeiten.
 
 ### Selbst & Identität
 * **Dunning-Kruger-Effekt**: Inkompetente Menschen überschätzen sich selbst, während kompetente Menschen sich oft unterschätzen.
@@ -188,7 +188,7 @@
 * **Planungsfehler**: Sie unterschätzen systematisch, wie lange Aufgaben dauern werden.
 * **Übermäßiges Selbstvertrauen**: Sie sind übermäßig zuversichtlich in Bezug auf Ihre eigenen Urteile oder Fähigkeiten.
 * **Moralische Lizenz**: Nachdem Sie eine „gute Tat” vollbracht haben, fühlen Sie sich freier, etwas moralisch Fragwürdiges zu tun.
-- **Gegenwartsverzerrung**: Sie schätzen unmittelbare Belohnungen höher ein als zukünftige Vorteile.
+* **Gegenwartsverzerrung**: Sie schätzen unmittelbare Belohnungen höher ein als zukünftige Vorteile.
 
 ### Wichtige eigenständige Verzerrungen
 * **Konjunktionsfehler**: Sie halten eine bestimmte Kombination (z. B. „Bankangestellte und Feministin”) für wahrscheinlicher als die allgemeinere Option („nur Bankangestellte”) – obwohl dies mathematisch unmöglich ist.
