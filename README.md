@@ -134,7 +134,7 @@
 * **Sampling Bias**: The selection of your sample distorts the results (e.g., only surveying Twitter users).
 * **Observer Expectancy Effect**: Your expectations as a researcher unconsciously influence the results.
 * **Reactivity (Hawthorne Effect)**: People change their behavior when they know they are being observed.
-- **File Drawer Problem** *(related to publication bias—added implicitly)*: describes the bias in scientific literature, as studies with non-significant or negative results are published less frequently, thereby creating an exaggeratedly positive picture of an effect.
+- **File Drawer Problem** *(related to publication bias)*: describes the bias in scientific literature, as studies with non-significant or negative results are published less frequently, thereby creating an exaggeratedly positive picture of an effect.
 * **Reproducibility bias**: Studies that are difficult to replicate are often overlooked—even though they would be important.
 
 ### Attention & Perception
